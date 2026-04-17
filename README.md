@@ -124,6 +124,8 @@ streamlit run app/dashboard.py
 | 90°   | ~0.16     | ~0.18         |
 
 ---
+![Robustness Curve](results/robustness_curve.png)
+
 
 ## 📉 Performance Drop (0° → 90°)
 
